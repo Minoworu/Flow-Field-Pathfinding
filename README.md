@@ -57,9 +57,9 @@ Everytime the cost field would get modified, everything would have to get recalc
   They're commonly used in RTS games but also in general computer science
 
 # Sources
-https://www.youtube.com/watch?v=zr6ObNVgytk
-https://leifnode.com/2013/12/flow-field-pathfinding/
-https://howtorts.github.io/2014/01/04/basic-flow-fields.html
+- https://www.youtube.com/watch?v=zr6ObNVgytk
+- https://leifnode.com/2013/12/flow-field-pathfinding/
+- https://howtorts.github.io/2014/01/04/basic-flow-fields.html
 
 
 
